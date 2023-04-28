@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhikumar63
+- 👋 Hi, I’m Abhishek
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on web development projects
