@@ -1,8 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Abhishek
-- 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Backend and ML/AI
 - 📫 How to reach me 63abhikumar@gmail.com
 
 <!---
@@ -23,13 +21,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=abhikumar63&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhikumar63&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhikumar63&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhikumar63&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhikumar63&icon=0&color=9)](https://visitcount.itsvg.in)
